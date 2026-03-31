@@ -5,6 +5,11 @@
 > **Hackathon Result:** Super AI Engineer Season 6 — Hack3 | Score: **0.88 / 1.00**
 
 ---
+##ตัวอย่างการใช้งานจริง
+<img width="1178" height="1017" alt="image" src="https://github.com/user-attachments/assets/5755fae8-760c-4030-857f-61db178616ca" />
+<img width="1218" height="1018" alt="image" src="https://github.com/user-attachments/assets/d4648584-8bd5-49e0-95fe-02ba3b22c5b2" />
+
+
 
 ## Architecture
 
